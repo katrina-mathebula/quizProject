@@ -1,0 +1,37 @@
+
+
+*					{ margin: 0; padding: 0; }
+body				{ font-family: 'Istok Web', sans-serif; }
+
+#page-wrap		    { width: 50%; margin: 0 auto; background-image: linear-gradient( to top, bisque, #ffffb3); height: 100%;
+                    
+                    }
+#grad {
+    background-image: linear-gradient(bisque, white); color:
+}
+
+h1                  { margin: 25px 0; font-family: 'Istok Web', sans-serif; text-transform: uppercase; letter-spacing: 3px; color: #666; font-size: 18px; }
+
+#quiz input {
+    vertical-align: middle;
+}
+
+#quiz ol {
+   margin: 0 0 10px 20px;
+}
+
+#quiz ol li {
+   margin: 0 0 20px 0;
+}
+
+#quiz ol li div {
+   padding: 4px 0;
+}
+
+#quiz h3 {
+   font-size: 17px; margin: 0 0 1px 0; color: #666;
+}
+
+#results {
+    font: 44px Georgia, Serif;
+}

@@ -7,6 +7,8 @@
 	<title>PHP QUIZ - FINAL</title>
 	
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Istok+Web&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Istok+Web:700&display=swap" rel="stylesheet">
 </head>
 
 <body>
