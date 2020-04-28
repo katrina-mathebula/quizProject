@@ -11,17 +11,18 @@
     <link href="https://fonts.googleapis.com/css?family=Istok+Web:700&display=swap" rel="stylesheet">
 </head>
 
+
 <body>
-
-	<div id="page-wrap">
-
-		<h1>Can you sort celebrities into their respective categories?</h1>
+    
+    <center><h1>Can you sort celebrities into their respective categories?</h1> </center>
+<div class= "wrapper">
+  <div class="question">
+    <div class= "question-headline">
+    
+      
 		
 		<form action="grade.php" method="post" id="quiz">
 		
-            <ol>
-            
-                <li>
                 
                     <h3>Question 1 - Sara Blakely</h3>
                     
@@ -45,11 +46,17 @@
                         <label for="question-1-answers-D">D) Business woman</label>
                     </div>
                 
-                </li>
-                
-                <li>
-                
-                    <h3>Question 2 - Matt Damon</h3>
+      </div>
+    </div>
+    </div>
+        
+        <div class= "wrapper">
+        <div class="question">
+            <div class= "question-headline">
+        
+       
+      
+            <h3>Question 2 - Matt Damon</h3>
                     
                     <div>
                         <input type="radio" name="question-2-answers" id="question-2-answers-A" value="A" />
@@ -71,10 +78,17 @@
                         <label for="question-2-answers-D">D) Author</label>
                     </div>
                 
-                </li>
-                
-                <li>
-                
+               </div>
+     
+    </div>
+    </div>
+    </div>
+    
+                <div class= "wrapper">
+                <div class="question">
+                <div class= "question-headline">
+                    <div class="question-answers"> 
+                        
                     <h3>Question 3 - Kendall Jenner</h3>
                     
                     <div>
@@ -96,10 +110,15 @@
                         <input type="radio" name="question-3-answers" id="question-3-answers-D" value="D" />
                         <label for="question-3-answers-D">D) Author</label>
                     </div>
-                
-                </li>
-                
-                <li>
+                    
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                 
                     <h3>Question 4 - John Lennon</h3>
                     
@@ -123,10 +142,14 @@
                         <label for="question-4-answers-D">D) Politician</label>
                     </div>
                 
-                </li>
+        </div>
+        </div>
+        </div>
                 
-                <li>
-                
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                     <h3>Question 5 - Serena Williams</h3>
                     
                     <div>
@@ -149,10 +172,13 @@
                         <label for="question-5-answers-D">D) Actor</label>
                     </div>
                 
-                </li>
+        </div>
+        </div>
+        </div>
                 
-                <li>
-                
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                     <h3>Question 6 - Billie Eilish</h3>
                     
                     <div>
@@ -175,10 +201,13 @@
                         <label for="question-6-answers-D">D) Painter</label>
                     </div>
                 
-                </li>
+        </div>
+        </div>
+        </div>
                 
-                <li>
-                
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                     <h3>Question 7 - Jennifer Aniston</h3>
                     
                     <div>
@@ -201,10 +230,13 @@
                         <label for="question-7-answers-D">D) Model</label>
                     </div>
                 
-                </li>
+        </div>
+        </div>
+        </div>
                 
-                <li>
-                
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                     <h3>Question 8 - Kobe Biyant</h3>
                     
                     <div>
@@ -227,9 +259,13 @@
                         <label for="question-8-answers-D">D) Author</label>
                     </div>
                 
-                </li>
-                
-                <li>
+        </div>
+        </div>
+        </div>
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                 
                     <h3>Question 9 - Tyra Banks</h3>
                     
@@ -253,9 +289,13 @@
                         <label for="question-9-answers-D">D) Author</label>
                     </div>
                 
-                </li>
-                
-                <li>
+        </div>
+        </div>
+        </div>
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                 
                     <h3>Question 10 - John Cena</h3>
                     
@@ -278,10 +318,13 @@
                         <input type="radio" name="question-10-answers" id="question-10-answers-D" value="D" />
                         <label for="question-10-answers-D">D) Wrestler</label>
                     </div>
-                
-                </li>
-                
-                <li>
+        </div>
+        </div>
+        </div>
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                 
                     <h3>Question 11 - Naomi Cambell</h3>
                     
@@ -304,10 +347,13 @@
                         <input type="radio" name="question-11-answers" id="question-11-answers-D" value="D" />
                         <label for="question-11-answers-D">D) Athlete</label>
                     </div>
-                
-                </li>
-                
-                <li>
+        </div>
+        </div>
+        </div>
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                 
                     <h3>Question 12 - Nick Cannon</h3>
                     
@@ -330,11 +376,13 @@
                         <input type="radio" name="question-12-answers" id="question-12-answers-D" value="D" />
                         <label for="question-12-answers-D">D) Actor</label>
                     </div>
+        </div>
+        </div>
+        </div>
                 
-                </li>
-                
-                <li>
-                
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                     <h3>Question 13 - Lana Del Rey</h3>
                     
                     <div>
@@ -356,10 +404,13 @@
                         <input type="radio" name="question-13-answers" id="question-13-answers-D" value="D" />
                         <label for="question-13-answers-D">D) Pointer</label>
                     </div>
-                
-                </li>
-                
-                <li>
+        </div>
+        </div>
+        </div>
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                 
                     <h3>Question 14 - Trevor Donovan</h3>
                     
@@ -382,11 +433,14 @@
                         <input type="radio" name="question-14-answers" id="question-14-answers-D" value="D" />
                         <label for="question-14-answers-D">D) Comedian</label>
                     </div>
+        </div>
+        </div>
+        </div>
                 
-                </li>
-                
-                <li>
-                
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                     <h3>Question 15 - America Ferrera</h3>
                     
                     <div>
@@ -408,11 +462,14 @@
                         <input type="radio" name="question-15-answers" id="question-15-answers-D" value="D" />
                         <label for="question-15-answers-D">D) Dancer</label>
                     </div>
+        </div>
+        </div>
+        </div>
                 
-                </li>
-                
-                <li>
-                
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                     <h3>Question 16 - Nelson Mandela</h3>
                     
                     <div>
@@ -434,10 +491,13 @@
                         <input type="radio" name="question-16-answers" id="question-16-answers-D" value="D" />
                         <label for="question-16-answers-D">D) Business man</label>
                     </div>
-                
-                </li>
-                
-                <li>
+        </div>
+        </div>
+        </div>
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                 
                     <h3>Question 17 - Megan Fox</h3>
                     
@@ -460,11 +520,14 @@
                         <input type="radio" name="question-17-answers" id="question-17-answers-D" value="D" />
                         <label for="question-17-answers-D">D) Painter</label>
                     </div>
+        </div>
+        </div>
+        </div>
                 
-                </li>
-                
-                <li>
-                
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                     <h3>Question 18 - Nelly Furtado</h3>
                     
                     <div>
@@ -486,11 +549,14 @@
                         <input type="radio" name="question-18-answers" id="question-18-answers-D" value="D" />
                         <label for="question-18-answers-D">D) Model</label>
                     </div>
+        </div>
+        </div>
+        </div>
                 
-                </li>
-                
-                <li>
-                
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                     <h3>Question 19 - Whoopi Goldberg</h3>
                     
                     <div>
@@ -512,10 +578,13 @@
                         <input type="radio" name="question-19-answers" id="question-19-answers-D" value="D" />
                         <label for="question-19-answers-D">D) Musician</label>
                     </div>
-                
-                </li>
-                
-                <li>
+        </div>
+        </div>
+        </div>
+    
+    <div class= "wrapper">
+    <div class="question">
+    <div class= "question-headline">
                 
                     <h3>Question 20 - Travis Scott</h3>
                     
@@ -538,17 +607,16 @@
                         <input type="radio" name="question-20-answers" id="question-20-answers-D" value="D" />
                         <label for="question-20-answers-D">D) Athlete</label>
                     </div>
-                
-                </li>
-                
-            </ol>
-            
-            <input type="submit" value="Submit Quiz" />
+        </div>
+        </div>
+        </div>
+        
+           <center><input type="submit" value="Submit Quiz" /></center> 
 		
 		</form>
+    
+
 	
 	</div>
-	
-</body>
-
+    </body>
 </html>
